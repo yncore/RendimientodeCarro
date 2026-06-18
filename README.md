@@ -19,5 +19,5 @@ Este proyecto es una herramienta interactiva desarrollada en Java para calcular 
 
 El codigo esta diseñado siguiendo principios de Programacion Orientada a Objetos (POO), dividiendo las responsabilidades en dos componentes esenciales:
 
-1. `CalculadorViaje.java` : El cerebro matematico que almacena los atributos del vehiculo y ejecuta las formulas de simulacion.
-2. `RendimientoDeCarro.java` : La interfaz de usuario por consola que gestiona la captura de datos por teclado y el menu interactivo.
+1. CalculadorViaje.java: El cerebro matematico que almacena los atributos del vehiculo y ejecuta las formulas de simulacion.
+2. RendimientoDeCarro.java: La interfaz de usuario por consola que gestiona la captura de datos por teclado y el menu interactivo.
