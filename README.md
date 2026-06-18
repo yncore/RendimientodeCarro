@@ -4,16 +4,16 @@ Este proyecto es una herramienta interactiva desarrollada en Java para calcular 
 
 ### Funcionalidades
 
-- **Calculo de Rendimiento Base:** Determina los km/gal a partir de los kilometros recorridos y la gasolina consumida.
-- **Simulacion de Presupuesto:** Calcula cuantos kilometros se pueden recorrer con una cantidad especifica de dinero.
-- **Planificacion de Ruta:** Calcula el costo economico total para cubrir una distancia determinada.
+- Calculo de Rendimiento Base: Determina los km/gal a partir de los kilometros recorridos y la gasolina consumida.
+- Simulacion de Presupuesto: Calcula cuantos kilometros se pueden recorrer con una cantidad especifica de dinero.
+- Planificacion de Ruta: Calcula el costo economico total para cubrir una distancia determinada.
 
 ### Tecnologias Utilizadas
 
-- **Lenguaje:** Java, usando el JDK
-- **Entorno:** Visual Studio Code
-- **Sistema Operativo:** Linux Mint, no obstante: "Write Once, Run Anywhere".
-- **Control de Versiones:** Git y GitHub
+- Lenguaje: Java, usando el JDK
+- Entorno:** Visual Studio Code
+- Sistema Operativo: Linux Mint, no obstante: "Write Once, Run Anywhere".
+- Control de Versiones: Git y GitHub
 
 ### Estructura del Proyecto
 
